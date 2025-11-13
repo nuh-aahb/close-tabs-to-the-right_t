@@ -1,23 +1,26 @@
 {
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
-      "strict_min_version": "53.0"
+    "data_collection_permissions": {
+      "required":   ["none"]
+    },
+      "strict_min_version": "55.0",
+      "id": "{83e9da5e-da0b-4c66-ab29-79a774e228e8}"
     }
   },
 
   "description": "__MSG_extensionDescription__",
-  "homepage_url": "https://github.com/mkopec/close-tabs-to-the-right",
+  "homepage_url": "https://github.com/nuh-aahb/close-tabs-to-the-right_t",
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
-  "version": "1.2.4",
-
+  "version": "1.2.5",
   "background": {
-    "scripts": ["background.js"]
+    "scripts": [
+      "background.js"
+    ]
   },
-
   "permissions": [
     "contextMenus"
   ],
-
   "default_locale": "en"
 }
