@@ -4,7 +4,7 @@
     "data_collection_permissions": {
       "required":   ["none"]
     },
-      "strict_min_version": "55.0",
+      "strict_min_version": "58.0",
       "id": "{83e9da5e-da0b-4c66-ab29-79a774e228e8}"
     }
   },
