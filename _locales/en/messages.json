@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Close Tabs to the Right",
+    "message": "Close &Tabs to the Right",
     "description": "Name of the extension."
   },
 
@@ -10,7 +10,7 @@
   },
 
   "contextItemTitle": {
-      "message": "Close Tabs to the R&ight",
+      "message": "Close &Tabs to the Right",
       "description": "Title of the context menu item."
   }
 }
